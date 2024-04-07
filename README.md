@@ -1,2 +1,2 @@
-# html-portfolio
+# html-resume
 resume, about me
